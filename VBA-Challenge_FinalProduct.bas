@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub stock_analysis()
 
 Dim currenttickerval As String
